@@ -1,2 +1,1 @@
-# Project1
-Souq
+# A-framework-for-adaptive-data-encryption
